@@ -8,8 +8,8 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/monodot/container-up
-    contextDir: httpd-hello-world
+      uri: https://github.com/nirjhar17
+    contextDir: sample
   strategy:
     type: Docker                      
     dockerStrategy:
